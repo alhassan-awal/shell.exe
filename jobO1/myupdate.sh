@@ -1,2 +1,0 @@
-sudo apt apt update
-
